@@ -9,7 +9,7 @@ import {
   MessageCircle,
 } from "lucide-react";
 
-import "./App.css";
+import "./index.css";
 
 const WHATSAPP =
   "https://wa.me/5511948226625?text=Olá,%20vim%20pelo%20site%20e%20preciso%20de%20um%20orçamento";
